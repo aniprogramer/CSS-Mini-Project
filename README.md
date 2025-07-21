@@ -1,8 +1,3 @@
-# CSS-Mini-Project
-Absolutely! Here's the full markdown for the `README.md` file — you can copy it directly:
-
----
-
 # 🎨 CSS Mini Project
 
 This is a simple yet visually appealing mini project built entirely using **HTML** and **CSS**. It serves as a foundational project for understanding layout, styling, and responsiveness using only CSS. Ideal for beginners looking to practice modern CSS design principles.
@@ -14,8 +9,7 @@ This is a simple yet visually appealing mini project built entirely using **HTML
 ---
 
 ## 🚀 Features
-
-- Responsive layout  
+ 
 - Clean and modern UI  
 - Pure HTML + CSS (No JavaScript)  
 - Easy to customize and extend  
@@ -29,9 +23,11 @@ This is a simple yet visually appealing mini project built entirely using **HTML
 CSS-Mini-Project/
 ├── index.html         # Main HTML file
 ├── style.css          # Custom CSS styling
+├── preview\.png        # Screenshot of the project for README preview
+├── photo.jpg          # Sample image used in the project
 └── README.md          # Project documentation
 
-````
+```
 
 ---
 
@@ -90,9 +86,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ⭐️ Don't forget to **star** the repository if you found it helpful!
 
-```
-
 ---
 
 Let me know if you also want a deploy button or GitHub Pages setup instructions.
-```
+
