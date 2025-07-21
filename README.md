@@ -9,7 +9,7 @@ This is a simple yet visually appealing mini project built entirely using **HTML
 
 ## 🖼️ Preview
 
-![Project Screenshot](screenshot 1.png)
+![Project Screenshot](https://github.com/aniprogramer/CSS-Mini-Project/blob/main/screenshot%201.png)
 
 ---
 
